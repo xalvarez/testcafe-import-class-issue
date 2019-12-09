@@ -20,4 +20,4 @@ Afterwards it'll be available under
 
 ## Running the tests
 
-Tests can be executed by calling `npm test`.
+Tests can be executed by calling `npm test`. The tests showcase the TestCafé issue described above.
