@@ -11,4 +11,4 @@ Installation can be carried out as follows:
 
 ## Running the tests
 
-Tests can be run either by calling `npm test`.
+Tests can be run by calling `npm test`.
