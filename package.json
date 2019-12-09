@@ -1,0 +1,16 @@
+{
+  "name": "testcafe-import-class-issue",
+  "scripts": {
+    "test": "standard && testcafe chromium:headless test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:xalvarez/testcafe-import-class-issue.git"
+  },
+  "author": "Xavier Alvarez",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^14.3.1",
+    "testcafe": "^1.7.0"
+  }
+}
