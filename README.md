@@ -9,6 +9,15 @@ Installation can be carried out as follows:
 
     npm i
 
+## Startup
+
+The application can be started like this:
+
+    npm run start
+
+Afterwards it'll be available under
+[localhost:5000](http://localhost:5000/).
+
 ## Running the tests
 
-Tests can be run by calling `npm test`.
+Tests can be executed by calling `npm test`.
