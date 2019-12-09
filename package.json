@@ -1,6 +1,7 @@
 {
   "name": "testcafe-import-class-issue",
   "scripts": {
+    "start": "node server.js",
     "test": "standard && testcafe chromium:headless test/"
   },
   "repository": {
@@ -9,6 +10,9 @@
   },
   "author": "Xavier Alvarez",
   "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
   "devDependencies": {
     "standard": "^14.3.1",
     "testcafe": "^1.7.0"
